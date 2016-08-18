@@ -1,0 +1,28 @@
+#header{
+    text-align:center;
+   background-color:#778899;
+   
+}
+
+#down{
+    height:15px;
+ 
+}
+.circles{
+    padding-top: 10%;
+    padding-bottom: 20%;
+    display: inline-block; 
+    text-decoration:none;
+    background-color:#00C78C;
+}
+
+.circles img {
+    max-width: 15%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+#about{
+    background-color:#4876FF;
+    padding-top:0.1%;
+}
