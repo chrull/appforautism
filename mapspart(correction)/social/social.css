@@ -1,0 +1,123 @@
+body{
+	background-image: url("board.jpg");
+	
+}
+p{
+	display: inline-block;
+	padding: 20px;
+    font-size: 40px; 
+	color: white; 
+    border-radius: 25px;
+	vertical-align: bottom;
+	margin-left: 10px;
+	width: 500px;
+    height: 300px;
+}
+
+img{
+	width:304px;
+	height:228px;
+	margin-left: 40%;
+}
+
+
+#rcorners1 {
+    background: #ffccff;
+    
+}
+
+#rcorners2 {
+    background: #ff99ff;
+    
+}
+
+#rcorners3 {
+    background:#ff66ff ;
+    
+	
+	
+}
+
+#rcorners4 {
+    background:#9900cc ;
+    
+	
+}
+
+#rcorners5 {
+    background: #d966ff;
+    
+}
+
+#rcorners6 {
+    background:#f2ccff ;
+   
+}
+
+#rcorners7 {
+    background:#ccffcc ;
+    
+}
+
+#rcorners8 {
+    background: #0099ff ;
+    
+}
+
+#rcorners9 {
+    background:#00004d;
+    
+}
+
+#rcorners10{
+    background:#061a00  ;
+    
+	
+}
+
+#rcorners11 {
+    background: #1a6600;
+   
+	
+}
+
+#rcorners12 {
+    background:#66ff33 ;
+   
+}
+
+h1{
+	text-align: center;
+	color: #009999;
+	font-size: 150px; 
+}
+
+.rowOfP {
+	display: inline;
+	min-width: 100%;
+	min-height: 400px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
